@@ -1,7 +1,3 @@
-# Base16-Fork
-
-> A more structured base16 theme environment
-
 ## Why does this fork exist?
 
 ### Reduce fragmentation
